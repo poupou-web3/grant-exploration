@@ -1,3 +1,10 @@
+*idea
+*.vscode
+
+data
+vexplorer
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
